@@ -25,3 +25,6 @@
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Local preview server logs
+.server-*.log
